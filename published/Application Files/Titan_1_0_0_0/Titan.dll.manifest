@@ -60,7 +60,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>RgvD56OZPpSWD+Ds7mClBdvAJLmuDx7PoTSp4ZW4AYg=</dsig:DigestValue>
+      <dsig:DigestValue>aZm9YcnvcPo4ROeBh3seHJLuU2fIto9umpAGa2PwTpo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Microsoft.WindowsAPICodePack.dll" size="103424">
@@ -144,22 +144,22 @@
       <dsig:DigestValue>xRtEuE4/Q1FVw/BN3rWumt5/OAsf4xtCoPY4/NQ3th0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Titan.dll" size="1119232">
+  <file name="Titan.dll" size="1119744">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>h8X0FNv1ZcdAlj+jHRNODLdm9Ed+vCKN9wx3uWuLGZQ=</dsig:DigestValue>
+      <dsig:DigestValue>Fy+wxNyi8JAaGW3iSHrn5ienznd+jVQXG80tkU2PO2E=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Titan.exe" size="376832">
+  <file name="Titan.exe" size="377344">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>J7EbWmpyD9fdLDbV7vLgpQ/VVvAWp2vG1TAo1QC0CSs=</dsig:DigestValue>
+      <dsig:DigestValue>bFN4R85BsYuSoB459QeNmKnM24zefxVQG+Ydo8cXOdY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Titan.runtimeconfig.json" size="267">
